@@ -29,3 +29,6 @@ You can also pull the branch from a specific day:
 ```git
 $ git checkout day-xx && git pull
 ```
+
+## Branches 
+- Day 1 - (https://github.com/codehakase/react30-source/tree/day-1)
