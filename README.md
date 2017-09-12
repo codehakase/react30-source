@@ -3,6 +3,8 @@ A 30 day React Article covering various concepts of the React JavaScript framewo
 
 ## Track
 - Day 1 - [Getting Started, Basic Concepts](https://hakaselabs.github.io/2017-09-11/learning-react-day-1)
+- Day 2 - [React Lifecycle Methods Pt1](https://hakaselabs.github.io/2017-09-11/learning-react-day-2)
+
 
 
 ## Running the Source locally
