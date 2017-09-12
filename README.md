@@ -2,7 +2,7 @@
 A 30 day React Article covering various concepts of the React JavaScript framework.
 
 ## Track
-- Day 1 Getting Started, Basic Concepts
+- Day 1 - [Getting Started, Basic Concepts](https://hakaselabs.github.io/2017-09-11/learning-react-day-1)
 
 
 ## Running the Source locally
@@ -29,3 +29,6 @@ You can also pull the branch from a specific day:
 ```git
 $ git checkout day-xx && git pull
 ```
+
+## Branches 
+- Day 1 - (https://github.com/codehakase/react30-source/tree/day-1)
